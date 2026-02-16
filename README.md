@@ -40,4 +40,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📩 Contact
 **Mohamed Tarek (Dash)** *Mechatronics Engineer | MEP & Automation Specialist* 📧 [mo7tarek.dash@gmail.com](mailto:mo7tarek.dash@gmail.com)  
-📍 Target Markets: UAE | Canada | Global
