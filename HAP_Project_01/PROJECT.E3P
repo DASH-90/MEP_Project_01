@@ -1,0 +1,237 @@
+[Project]
+Project Name=Project_01
+Master Archive Version=AR002
+[Application Data]
+HAP49=Hourly Analysis Program
+[XXXYY File 01]
+FileName=PROJECT.MDB
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=PROJECT.RO
+[XXXYY File 02]
+FileName=PROJECT.LDB
+RequiredFlag=0
+VerifyFlag=0
+ArchiveFlag=0
+EraseFlag=-1
+CreateMethod=0
+SourceFileName=
+[Properties]
+Project Number=
+Project Date=2/11/2026 4:52:06 AM
+Contact Name=
+Contact Type=(none)
+Salesperson=
+Last Modified=2/16/2026 12:11:30 PM
+Project Notes=
+[HAP49 File 01]
+FileName=HAP49A*.DAT
+RequiredFlag=0
+VerifyFlag=0
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=0
+SourceFileName=
+[HAP49 File 02]
+FileName=HAP49A00.DAT
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=SSNSystemDefault18.RO
+[HAP49 File 03]
+FileName=HAP49B*.DAT
+RequiredFlag=0
+VerifyFlag=0
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=0
+SourceFileName=
+[HAP49 File 04]
+FileName=HAP49B00.DAT
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=SSNBldgDefault12.RO
+[HAP49 File 05]
+FileName=HAP49BLR.DAT
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=SSNBoilerDefault12.RO
+[HAP49 File 06]
+FileName=HAP49CHL.DAT
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=SSNChillerDefault14.RO
+[HAP49 File 07]
+FileName=HAP49D*.DAT
+RequiredFlag=0
+VerifyFlag=0
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=0
+SourceFileName=
+[HAP49 File 08]
+FileName=HAP49DOR.DAT
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=SSNDoorDefault11.RO
+[HAP49 File 09]
+FileName=HAP49ERT.DAT
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=SSNElecRateDefault12.RO
+[HAP49 File 10]
+FileName=HAP49FRT.DAT
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=SSNFuelRateDefault12.RO
+[HAP49 File 11]
+FileName=HAP49HW1.DAT
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=SSNHw1WthrDefault11.RO
+[HAP49 File 12]
+FileName=HAP49INX.MDB
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=HAP49INX.RO
+[HAP49 File 13]
+FileName=HAP49P*.DAT
+RequiredFlag=0
+VerifyFlag=0
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=0
+SourceFileName=
+[HAP49 File 14]
+FileName=HAP49P00.DAT
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=SSNPlantDefault16.RO
+[HAP49 File 15]
+FileName=HAP49PRF.DAT
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=SSNProjectPrefDefault11.RO
+[HAP49 File 16]
+FileName=HAP49ROF.DAT
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=SSNRoofDefault11.RO
+[HAP49 File 17]
+FileName=HAP49RPT.DAT
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=SSNHapReptDefault11.RO
+[HAP49 File 18]
+FileName=HAP49SCH.DAT
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=SSNSchedDefault12.RO
+[HAP49 File 19]
+FileName=HAP49SHD.DAT
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=SSNShadeDefault11.RO
+[HAP49 File 20]
+FileName=HAP49SPC.DAT
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=SSNSpaceDefault13.RO
+[HAP49 File 21]
+FileName=HAP49TWR.DAT
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=SSNClgTwrDefault13.RO
+[HAP49 File 22]
+FileName=HAP49WAL.DAT
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=SSNWallDefault11.RO
+[HAP49 File 23]
+FileName=HAP49WIN.DAT
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=SSNWindowDefault11.RO
+[HAP49 File 24]
+FileName=HAP49WIZ.MDB
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=HAP49WIZ.RO
+[HAP49 File 25]
+FileName=HAP49WTA.DAT
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=SSNSimWthrDefault11.RO
+[HAP49 File 26]
+FileName=HAP49WTD.DAT
+RequiredFlag=-1
+VerifyFlag=-1
+ArchiveFlag=-1
+EraseFlag=-1
+CreateMethod=1
+SourceFileName=SSNDesWthrDefault11.RO
